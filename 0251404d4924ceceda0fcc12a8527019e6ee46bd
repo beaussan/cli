@@ -1,0 +1,23 @@
+packages/utils/src/lib/create-runner-files.ts
+  c8bfd7f3eb6e971c 16-19
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.0.31",
+  "base_commit_sha": "0251404d4924ceceda0fcc12a8527019e6ee46bd",
+  "prompts": {
+    "c8bfd7f3eb6e971c": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_427f37212ffexZqS1L8zocEKbH",
+        "model": "anthropic/claude-opus-4-5"
+      },
+      "human_author": "Nicolas Beaussart <nic.beaussart@gmail.com>",
+      "messages": [],
+      "total_additions": 4,
+      "total_deletions": 2,
+      "accepted_lines": 4,
+      "overriden_lines": 0
+    }
+  }
+}
